@@ -19,8 +19,8 @@ You can run multiple trading pairs on the same exchange and check for Take Profi
 ### Contributing
 ![alt text](https://raw.githubusercontent.com/Trading-Tiger/StopLossTakeProfit-Modul/main/preview.PNG)
 #### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!!
-[![Foo](https://www.cemetech.net/media/news_attachment/903/discordimage.png)](https://discord.gg/xAGZHAr)
-[![TELEGRAM](https://instinctive-spring-2913.roast.io/img/joinTelegram.png)](https://t.me/TradingTigers_Orginal)
+[![Foo](https://instinctive-spring-2913.roast.io/img/joindiscord.png)](https://discord.gg/xAGZHAr)
+[![TELEGRAM](https://instinctive-spring-2913.roast.io/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
 
 
 ## Authentication  

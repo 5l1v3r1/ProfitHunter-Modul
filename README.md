@@ -16,8 +16,11 @@ The automated TradingTiger bots work 24/7 so you don't have to.
 Little to no trading experience or programming knowledge required.  
 You can run multiple trading pairs on the same exchange and check for Take Profit and Stop Loss.
 ### Contributing
+![alt text](https://raw.githubusercontent.com/Trading-Tiger/StopLossTakeProfit-Modul/main/preview.PNG)
 #### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!!
 [![Foo](https://www.cemetech.net/media/news_attachment/903/discordimage.png)](https://discord.gg/xAGZHAr)
+
+
 ## Authentication  
 Create a Binance-Smart-Chain address from which you have the private key.  
 [Then buy Trading Tiger Tokens (TIGS) at Bakeryswap](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169).  

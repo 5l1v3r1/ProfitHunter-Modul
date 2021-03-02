@@ -22,13 +22,12 @@ You can run multiple trading pairs on the same exchange and check for Take Profi
 [![Foo](https://instinctive-spring-2913.roast.io/img/joindiscord.png)](https://discord.gg/xAGZHAr)
 [![TELEGRAM](https://instinctive-spring-2913.roast.io/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
 
-
 ## Authentication  
 Create a Binance-Smart-Chain address from which you have the private key.  
 [Then buy Trading Tiger Tokens (TIGS) at Bakeryswap](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169).  
-You need Max 200 TIGS to start our tools, this will vary!  
+You need Max 150 TIGS to start our tools, this will vary!  
 If the tokens have a price, the amount will be adjusted (less).  
-
+[![bakeryswap](https://instinctive-spring-2913.roast.io/img/bakeryswap.png)](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169)
 ## Download  
 [Find a version for your system at Releases](https://github.com/Trading-Tiger/StopLossTakeProfit-Modul/releases/)  
 

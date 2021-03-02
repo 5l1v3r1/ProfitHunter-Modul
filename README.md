@@ -1,5 +1,6 @@
 # :rocket: StopLossTakeProfits Modul :rocket:
-![alt text](https://instinctive-spring-2913.roast.io/img/ms-icon-310x310.png)  
+![alt text](https://instinctive-spring-2913.roast.io/img/ms-icon-310x310.png)
+##### It checks your open positions for take profit and stop loss, if your position has been changed, the old take profit limit order is deleted, and a new one is created  
 Trading-Tigers StopLossTakeProfits is able to detect and execute an opportunity on different trading pairs at high speed.  
 This is not comparable to the human trader who has to enter an order manually, at the same time, this has no emotions and executes stop loss directly.  
 It eliminates the physical aspect of being glued to your screen tracking your currencies.  

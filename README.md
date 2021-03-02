@@ -25,7 +25,7 @@ You need Max 200 TIGS to start our tools, this will vary!
 If the tokens have a price, the amount will be adjusted (less).  
 
 ## Download  
-Find a version for your system at [Releases](https://pip.pypa.io/en/stable/)  
+[Find a version for your system at Releases](https://github.com/Trading-Tiger/StopLossTakeProfit-Modul/releases/)  
 
 ## Settings
 

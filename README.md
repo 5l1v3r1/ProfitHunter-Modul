@@ -1,11 +1,11 @@
 # :rocket: StopLossTakeProfits Modul :rocket:
-![alt text](https://instinctive-spring-2913.roast.io/img/ms-icon-310x310.png)
+![alt text](https://trading-tigers.com/img/ms-icon-310x310.png)
 ##### It checks your open positions for take profit and stop loss, if your position has been changed, the old take profit limit order is deleted, and a new one is created  
 Trading-Tigers StopLossTakeProfits is able to detect and execute an opportunity on different trading pairs at high speed.  
 This is not comparable to the human trader who has to enter an order manually, at the same time, this has no emotions and executes stop loss directly.  
 It eliminates the physical aspect of being glued to your screen tracking your currencies.  
 You have the power to effortlessly monitor more currencies at once.
-### [CHECK MORE MODULES AND INDICATORS](Trading-Tigers.com)
+### [CHECK MORE MODULES AND INDICATORS](https://Trading-Tigers.com)
 ### [TradingTigers Token @BSC](https://bscscan.com/token/0x017a6d12ca6e591d684e63791fd2de1e8a550169)
 ## Your benefits of our software.
 #### READY FOR ALL!
@@ -19,15 +19,15 @@ You can run multiple trading pairs on the same exchange and check for Take Profi
 ### Contributing
 ![alt text](https://raw.githubusercontent.com/Trading-Tiger/StopLossTakeProfit-Modul/main/preview.PNG)
 #### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!!
-[![Foo](https://instinctive-spring-2913.roast.io/img/joindiscord.png)](https://discord.gg/xAGZHAr)
-[![TELEGRAM](https://instinctive-spring-2913.roast.io/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
+[![Foo](https://trading-tigers.com/img/joindiscord.png)](https://discord.gg/xAGZHAr)
+[![TELEGRAM](https://trading-tigers.com/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
 
 ## Authentication  
 Create a Binance-Smart-Chain address from which you have the private key.  
 [Then buy Trading Tiger Tokens (TIGS) at Bakeryswap](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169).  
 You need Max 150 TIGS to start our tools, this will vary!  
 If the tokens have a price, the amount will be adjusted (less).  
-[![bakeryswap](https://instinctive-spring-2913.roast.io/img/bakeryswap.png)](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169)
+[![bakeryswap](https://trading-tigers.com/img/bakeryswap.png)](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169)
 ## Download  
 [Find a version for your system at Releases](https://github.com/Trading-Tiger/StopLossTakeProfit-Modul/releases/)  
 

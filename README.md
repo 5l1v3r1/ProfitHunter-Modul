@@ -1,4 +1,5 @@
 # :rocket: StopLossTakeProfits Modul :rocket:
+### No more liquidations with our StopLossTakeProfit module!  
 ![alt text](https://trading-tigers.com/img/ms-icon-310x310.png)
 ##### It checks your open positions for take profit and stop loss, if your position has been changed, the old take profit limit order is deleted, and a new one is created  
 Trading-Tigers StopLossTakeProfits is able to detect and execute an opportunity on different trading pairs at high speed.  

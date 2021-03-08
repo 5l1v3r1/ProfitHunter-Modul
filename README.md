@@ -17,11 +17,14 @@ The automated TradingTiger bots work 24/7 so you don't have to.
 #### QUICK AND EASY TO SET UP!
 Little to no trading experience or programming knowledge required.  
 You can run multiple trading pairs on the same exchange and check for Take Profit and Stop Loss.
-### Contributing
-![alt text](https://raw.githubusercontent.com/Trading-Tiger/StopLossTakeProfit-Modul/main/preview.PNG)
-#### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!!
-[![Foo](https://trading-tigers.com/img/joindiscord.png)](https://discord.gg/xAGZHAr)
+#### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!! 
+
+## Preview
+![alt text](https://raw.githubusercontent.com/Trading-Tiger/StopLossTakeProfit-Modul/main/preview.png) 
+## Enter our Community
+[![Discord Shield](https://discordapp.com/api/guilds/766340441075089418/widget.png?style=banner2)](https://discord.gg/xAGZHAr)  
 [![TELEGRAM](https://trading-tigers.com/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
+
 
 ## Authentication  
 Create a Binance-Smart-Chain address from which you have the private key.  

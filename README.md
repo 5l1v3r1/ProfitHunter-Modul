@@ -20,7 +20,7 @@ You can run multiple trading pairs on the same exchange and check for Take Profi
 #### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!! 
 
 ## Preview
-![alt text](https://raw.githubusercontent.com/Trading-Tiger/StopLossTakeProfit-Modul/main/preview.png) 
+![alt text](https://raw.githubusercontent.com/Trading-Tiger/StopLossTakeProfit-Modul/main/preview.PNG) 
 ## Enter our Community
 [![Discord Shield](https://discordapp.com/api/guilds/766340441075089418/widget.png?style=banner2)](https://discord.gg/xAGZHAr)  
 [![TELEGRAM](https://trading-tigers.com/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)

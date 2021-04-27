@@ -1,8 +1,8 @@
-# :rocket: StopLossTakeProfits Modul :rocket:
+# :rocket: ProfitHunter Modul :rocket:
 ### No more Cross liquidations with our StopLossTakeProfit module!  
 ![alt text](https://trading-tigers.com/old_website/img/ms-icon-310x310.png)
 ##### It checks your open positions for take profit and stop loss, if your position has been changed, the old take profit limit order is deleted, and a new one is created  
-Trading-Tigers StopLossTakeProfits is able to detect and execute an opportunity on different trading pairs at high speed.  
+Trading-Tigers ProfitHunter(StopLossTakeProfits) is able to detect and execute an opportunity on different trading pairs at high speed.  
 This is not comparable to the human trader who has to enter an order manually, at the same time, this has no emotions and executes stop loss directly.  
 It eliminates the physical aspect of being glued to your screen tracking your currencies.  
 You have the power to effortlessly monitor more currencies at once.

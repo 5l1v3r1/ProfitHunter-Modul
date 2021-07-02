@@ -24,12 +24,6 @@ You can run multiple trading pairs on the same exchange and check for Take Profi
 ## Enter our Community
 [![Discord Shield](https://discordapp.com/api/guilds/766340441075089418/widget.png?style=banner2)](https://discord.gg/xAGZHAr)  
 
-## Authentication  
-Create a Binance-Smart-Chain address from which you have the private key.  
-[Then buy Trading Tiger Tokens (TIGS) at Pancakeswap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x34faa80fec0233e045ed4737cc152a71e490e2e3).  
-You need Max 100 TIGS to start our tools, this will vary!  
-If the tokens have a price, the amount will be adjusted (less).  
-
 ## Download  
 [Find a version for your system at Releases](https://github.com/Trading-Tiger/StopLossTakeProfit-Modul/releases/)  
 

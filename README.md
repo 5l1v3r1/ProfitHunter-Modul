@@ -7,7 +7,7 @@ This is not comparable to the human trader who has to enter an order manually, a
 It eliminates the physical aspect of being glued to your screen tracking your currencies.  
 You have the power to effortlessly monitor more currencies at once.
 ### [CHECK MORE MODULES AND INDICATORS](https://Trading-Tigers.com)
-### [TradingTigers Token @BSC](https://bscscan.com/token/0x017a6d12ca6e591d684e63791fd2de1e8a550169)
+### [TradingTigers Token @BSC](https://bscscan.com/token/0x34faa80fec0233e045ed4737cc152a71e490e2e3)
 ## Your benefits of our software.
 #### READY FOR ALL!
 Suitable for experienced, advanced and novice traders, perfect for learning.  
@@ -26,7 +26,7 @@ You can run multiple trading pairs on the same exchange and check for Take Profi
 
 ## Authentication  
 Create a Binance-Smart-Chain address from which you have the private key.  
-[Then buy Trading Tiger Tokens (TIGS) at Bakeryswap](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169).  
+[Then buy Trading Tiger Tokens (TIGS) at Bakeryswap](https://www.bakeryswap.org/#/swap?outputCurrency=0x34faa80fec0233e045ed4737cc152a71e490e2e3).  
 You need Max 100 TIGS to start our tools, this will vary!  
 If the tokens have a price, the amount will be adjusted (less).  
 
@@ -41,7 +41,7 @@ Never give your API Key authorization to withdrawal, make sure that you enable t
 "coins" : ["BTCUSDT", "XRPUSDT" , "ADAUSDT" ], -> Pairs to Trade on Binance Future.  
 You can find a complete COIN list [HERE](https://github.com/Trading-Tiger/Supported_Trading_Pairs/blob/main/Binance_Future_Pairs.json).
 #### bsc_Secret-Key  
-Binance-Smart-Chain Private-Key with Trading Tiger Tokens (TIGS).[BUY TIGS Bakeryswap](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169) 
+Binance-Smart-Chain Private-Key with Trading Tiger Tokens (TIGS).[BUY TIGS Bakeryswap](https://www.bakeryswap.org/#/swap?outputCurrency=0x34faa80fec0233e045ed4737cc152a71e490e2e3) 
 #### Take Profit & Stop Loss  
 How To Calculate?? E.g. "1% * Leverage" = Real Percent  
 "Percent_take_profit" : 1.3 -> Take Profit Percentage Calculated from the entry price without leverage. Its Uses LIMIT orders.  

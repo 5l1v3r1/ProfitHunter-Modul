@@ -1,0 +1,15 @@
+{
+    "api-key" : "uiRERpwLirfjyvyALLF0WrErGbZZK",
+    "api-secret" : "UifJ0Asow7LYMhDccRqZfSg25H",
+  
+    "select_Coins" : ["EOSUSDT", "SUSHIUSDT"],
+  
+    "Percent_take_profit" : 1.3,
+    "Percent_stop_loss" : 3,
+  
+    "discord" : false,
+    "discord_webhook": "https://discord.com/api/webhooks/795290692.......",
+  
+    "interval_time" : 0.2
+  
+}

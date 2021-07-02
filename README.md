@@ -26,7 +26,7 @@ You can run multiple trading pairs on the same exchange and check for Take Profi
 
 ## Authentication  
 Create a Binance-Smart-Chain address from which you have the private key.  
-[Then buy Trading Tiger Tokens (TIGS) at Bakeryswap](https://www.bakeryswap.org/#/swap?outputCurrency=0x34faa80fec0233e045ed4737cc152a71e490e2e3).  
+[Then buy Trading Tiger Tokens (TIGS) at Pancakeswap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x34faa80fec0233e045ed4737cc152a71e490e2e3).  
 You need Max 100 TIGS to start our tools, this will vary!  
 If the tokens have a price, the amount will be adjusted (less).  
 
@@ -41,7 +41,7 @@ Never give your API Key authorization to withdrawal, make sure that you enable t
 "coins" : ["BTCUSDT", "XRPUSDT" , "ADAUSDT" ], -> Pairs to Trade on Binance Future.  
 You can find a complete COIN list [HERE](https://github.com/Trading-Tiger/Supported_Trading_Pairs/blob/main/Binance_Future_Pairs.json).
 #### bsc_Secret-Key  
-Binance-Smart-Chain Private-Key with Trading Tiger Tokens (TIGS).[BUY TIGS Bakeryswap](https://www.bakeryswap.org/#/swap?outputCurrency=0x34faa80fec0233e045ed4737cc152a71e490e2e3) 
+Binance-Smart-Chain Private-Key with Trading Tiger Tokens (TIGS).[BUY TIGS Bakeryswap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x34faa80fec0233e045ed4737cc152a71e490e2e3) 
 #### Take Profit & Stop Loss  
 How To Calculate?? E.g. "1% * Leverage" = Real Percent  
 "Percent_take_profit" : 1.3 -> Take Profit Percentage Calculated from the entry price without leverage. Its Uses LIMIT orders.  
@@ -74,4 +74,5 @@ pm2 stop <APP_Name>
 pm2 delete <APP_Name>
 ```
 
-
+## Greetings, 
+## Seven
